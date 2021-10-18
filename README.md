@@ -51,8 +51,6 @@
   ![image](https://user-images.githubusercontent.com/487999/79684159-3543c700-826a-11ea-8d5f-a3fc0c4cad87.png)
 
 
-## Event Storming 결과
-* MSAEz 로 모델링한 이벤트스토밍 결과:  https://labs.msaez.io/#/storming/lrFQcdHwGSSheb95v0rBXj1plX12/6de60805b12f218daa80b555270d09ee
 
 ### 액터, 커맨드 부착하여 읽기 좋게
 ![image](https://user-images.githubusercontent.com/73699193/97982030-82f2dc00-1e16-11eb-821d-27351387f8ad.png)
